@@ -14,11 +14,12 @@ This README provides instructions on how to use the included Windows registry (.
 ## Instructions
 
 1. Download Catp.reg or copy it from this repo
-2. Double click on Catp.reg to open the Windows Registry Editor
-3. Click Yes to merge the registry file into the Windows Registry
-4. Open PuTTY and go to Window > Saved Seesion
-5. Select the "Catp" scheme from the Saved sessions dropdown 
-6. Click Openy to apply the color scheme
+
+3. Double click on Catp.reg to open the Windows Registry Editor
+4. Click Yes to merge the registry file into the Windows Registry
+5. Open PuTTY and go to Window > Saved Seesion
+6. Select the "Catp" scheme from the Saved sessions dropdown 
+7. Click Openy to apply the color scheme
 
 And you're done! The next time you open an SSH session in PuTTY it will use the customized Catp color theme.
 
