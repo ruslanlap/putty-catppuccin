@@ -44,8 +44,3 @@ And you're done! The next time you open an SSH session in PuTTY it will use the 
 
 Let me know if you have any other questions!
 
-## Demo
-
-Insert gif or link to demo
-
-
