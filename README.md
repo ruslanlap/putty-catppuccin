@@ -1,4 +1,4 @@
-# putty-catppuccin
+# putty-catppuccin-theme
 
 Here is a README file with instructions on how to use the Windows registry file to modify PuTTY color settings:
 
