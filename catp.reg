@@ -1,0 +1,24 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\Catp]
+
+
+"Colour0" = "189, 147, 249" 
+"Colour1" = "205, 214, 244" 
+"Colour2" = "69, 71, 90" 
+"Colour3" = "88, 91, 112" 
+"Colour4" = "243, 139, 168" 
+"Colour5" = "243, 139, 168" 
+"Colour6" = "166, 227, 161" 
+"Colour7" = "166, 227, 161" 
+"Colour8" = "249, 226, 175" 
+"Colour9" = "249, 226, 175" 
+"Colour10" = "137, 180, 250" 
+"Colour11" = "137, 180, 250" 
+"Colour12" = "245, 194, 231"
+"Colour13" = "245, 194, 231" 
+"Colour14" = "148, 226, 213"
+"Colour15" = "148, 226, 213" 
+"Colour16" = "186, 194, 222" 
+"Colour17" = "166, 173, 200" 
+
