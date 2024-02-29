@@ -41,11 +41,11 @@ Install
 6. Click Openy to apply the color scheme
 
 
-##Other PuTTY Recommendations
+## Other PuTTY Recommendations
 
 ```bash
 Window > Apprearance
- Font: Consolas, bold, 14-point
+ Font: Consolas, bold, 12-point
  Font quality:
   ( ) Antialiased     ( ) Non-Antialiased
   (O) ClearType       ( ) Default
